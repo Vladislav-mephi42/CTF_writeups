@@ -17,3 +17,10 @@ and for which purpose is it called.
     If the check is passed, the character (0-9) is converted to a number (0-9) and placed in the v12 array. Let`s name v12 as a "massiveOf09"
     ![massive of 0-9 digits](assets/reverse_1_2.png)
 
+6. Take a look at next screenshot, which shows how "bubble_sort_sequence_executor_aka_transposition_performer" works.
+   In the comments, I've explained what each line does in a more human-friendly way.
+    ![bubble_sort_sequence_executor_aka_transposition_performer](assets/reverse_1_3.png)
+7. We've almost solved the problem. Let`s take a look at check that determines whether we can give the flag or not. For passing this check we must create
+   a transpozition combination which is a argv string
+   ![main check](assets/reverse_1_4.png)
+8. ![transpozition combination](assets/reverse_1_5.png)
