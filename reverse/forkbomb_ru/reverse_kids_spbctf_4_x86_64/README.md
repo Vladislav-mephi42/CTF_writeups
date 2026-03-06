@@ -14,5 +14,6 @@ and for which purpose is it called.
     ![screen of first look at main](assets/reverse_1_1.png)
  5. Moving further through the pseudocode, we see a block that checks an array of characters(argv - an argument of programm) to see if they represent numbers
     from 0 to 9.
-    If the check is passed, the character (0-9) is converted to a number (0-9) and placed in the v12 array. Let`s name v12 as a "secretMassive"
+    If the check is passed, the character (0-9) is converted to a number (0-9) and placed in the v12 array. Let`s name v12 as a "massiveOf09"
     ![massive of 0-9 digits](assets/reverse_1_2.png)
+
