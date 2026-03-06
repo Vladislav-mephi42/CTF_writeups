@@ -2,7 +2,7 @@
 
 ## Repository Purpose
 This repository showcases my solutions and write-ups for CTF challenges across various platforms.
-While I am no longer actively competing, I continue to solve challenges at my own pace to deepen my knowledge.
+Currently, I don't have a desire to participate in CTF competiting. I solve challenges at my own pace to deepen my knowledge.
 The repository is organized by CTF categories, further divided into logical blocks by event or year.
 
 ## About Me
